@@ -10,7 +10,6 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
   - [Introductory Papers](#introductory-papers)
   - [Introductory Videos](#introductory-videos)
   - [Introductory Lectures](#introductory-lectures)
-  - [Tutorial and Jupyter Notebook](#tutorial-and-jupyter-notebook)
 - [Papers](#papers)
   - [Survey](#survey)
   - [Vision](#vision)
@@ -158,78 +157,6 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2101.03288)] \
 *Jascha Sohl-Dickstein, MIT 6.S192 - Lecture 22* \
 [[Video](https://www.youtube.com/watch?v=XCUlnHP1TNM)] \
 19 Apr 2022
-
-## Tutorial and Jupyter Notebook
-
-**:fast_forward: DiffusionFastForward: train from scratch in colab** \
-*Mikolaj Czerkawski (@mikonvergence)* \
-[[Github](https://github.com/mikonvergence/DiffusionFastForward)]
-[[notebook](https://github.com/mikonvergence/DiffusionFastForward#computer-code)]
-
-**diffusion-for-beginners** \
-*ozanciga* \
-[[Github](https://github.com/ozanciga/diffusion-for-beginners)]
-
-**Beyond Diffusion: What is Personalized Image Generation and How Can You Customize Image Synthesis?** \
-*J. Rafid Siddiqui* \
-[[Github](https://github.com/azad-academy/personalized-diffusion)] [[Medium](https://medium.com/mlearning-ai/beyond-diffusion-what-is-personalized-image-generation-and-how-can-you-customize-image-synthesis-26a89d5b335)]
-
-**Diffusion_models_tutorial** \
-*FilippoMB* \
-[[Github](https://github.com/FilippoMB/Diffusion_models_tutorial)]
-
-**ScoreDiffusionModel** \
-*JeongJiHeon* \
-[[Github](https://github.com/JeongJiHeon/ScoreDiffusionModel)]
-
-**Minimal implementation of diffusion models** \
-*VSehwag* \
-[[Github](https://github.com/VSehwag/minimal-diffusion)]
-
-**diffusion_tutorial** \
-*sunlin-ai* \
-[[Github](https://github.com/sunlin-ai/diffusion_tutorial)] 
-
-**Denoising diffusion probabilistic models** \
-*acids-ircam* \
-[[Github](https://github.com/acids-ircam/diffusion_models)] 
-
-
-**Centipede Diffusion** \
-*Zalring* \
-[[Notebook](https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb)]
-
-**Deforum Stable Diffusion** \
-*deforum* \
-[[Notebook](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)]
-
-**Stable Diffusion Interpolation** \
-*None* \
-[[Notebook](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing)]
-
-**Keras Stable Diffusion: GPU starter example** \
-*None* \
-[[Notebook](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK)]
-
-**Huemin Jax Diffusion** \
-*huemin-art* \
-[[Notebook](https://colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb)]
-
-**Disco Diffusion** \
-*alembics* \
-[[Notebook](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
-
-**Simplified Disco Diffusion** \
-*entmike* \
-[[Notebook](https://colab.research.google.com/github/entmike/disco-diffusion-1/blob/main/Simplified_Disco_Diffusion.ipynb)]
-
-**WAS's Disco Diffusion - Portrait Generator Playground** \
-*WASasquatch* \
-[[Notebook](https://colab.research.google.com/github/WASasquatch/disco-diffusion-portrait-playground/blob/main/WAS's_Disco_Diffusion_v5_6_9_%5BPortrait_Generator_Playground%5D.ipynb)]
-
-**Diffusers - Hugging Face** \
-*huggingface* \
-[[Notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)] 
 
 
 # Papers
@@ -800,6 +727,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.09556)] \
 16 Mar 2023
 
 **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
+Unknown \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2303.08320)] \
 15 Mar 2023
 
